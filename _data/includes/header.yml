@@ -1,9 +1,9 @@
 navbar: 
   - tabname: Home
-    link:  https://sheharyar-khalid.github.io/cs473/
+    link:  https://cs473-2022.github.io/CS473/
 
   - tabname: Schedule
-    link: https://sheharyar-khalid.github.io/cs473/schedule
+    link: https://cs473-2022.github.io/CS473/
 
   - tabname: Course Policies
-    link: https://sheharyar-khalid.github.io/cs473/syllabus 
+    link: https://cs473-2022.github.io/CS473/
