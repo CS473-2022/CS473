@@ -1,8 +1,6 @@
 title: Network Security # title which appears for the website
 email: #your-email@example.com
-description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
-    X
- 
+description: "CS473"
 url: "https://cs473-2022.github.io/CS473/" # the base hostname & protocol for YOUR site, e.g. http://example.com
 theme: minima
 plugins:
