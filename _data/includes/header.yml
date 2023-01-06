@@ -1,0 +1,9 @@
+navbar: 
+  - tabname: Home
+    link:  https://sheharyar-khalid.github.io/cs473/
+
+  - tabname: Schedule
+    link: https://sheharyar-khalid.github.io/cs473/schedule
+
+  - tabname: Course Policies
+    link: https://sheharyar-khalid.github.io/cs473/syllabus 

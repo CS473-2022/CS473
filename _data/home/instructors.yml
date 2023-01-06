@@ -1,0 +1,31 @@
+instructor:
+- name: Dr. Mobin Javed
+  email: mobin.javed@lums.edu.pk
+  img: assets/instructor.svg
+  consultation: 'Office Hours'
+
+ta:
+- name: Sheharyar Khalid
+  email: 23100338@lums.edu.pk
+  img: assets/instructor.svg
+  consultation: 'Office Hours'
+
+- name: X
+  email: X
+  img: assets/instructor.svg
+  consultation: 'Office Hours'
+
+- name: X
+  email: X
+  img: assets/instructor.svg
+  consultation: 'Office Hours'
+
+- name: X
+  email: X
+  img: assets/instructor.svg
+  consultation: 'Office Hours'
+
+- name: X
+  email: X
+  img: assets/instructor.svg
+  consultation: 'Office Hours'

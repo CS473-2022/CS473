@@ -1,0 +1,7 @@
+content:
+- p: <p>This course introduces students to the threats as well as defenses for securing networks. The course has four modules</p>
+- p: <p>(i) web security</p>
+- p: <p>(ii) network security</p>
+- p: <p>(iii) software security</p>
+- p: <p>(iv) cryptography</p>
+- p: <p>All four modules have hands-on labs in which the students will be implementing attacks as well as defenses. </p>

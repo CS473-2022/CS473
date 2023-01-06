@@ -1,2 +1,1 @@
-# CS473
-Network Security Website
+CS 473

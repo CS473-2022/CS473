@@ -1,0 +1,39 @@
+syllabus:
+  - heading: Objective
+    content: "The goal of this course is for the students to develop an understanding of how to secure networks. The students will develop an appreciation of what security vulnerabilities exist in each and every component of the Internet, ranging from software to protocols to implementations of cryptographic algorithms, and how these vulnerabilities can and have been exploited in the real-world. They will learn how cryptography serves a fundamental role in secure communications on the Internet, as well as the defenses for various threats, as they have evolved over the years."
+
+  - heading: Learning Outcomes  
+    content: "<ul><li>Learn about web attacks and how to defend against them </li>
+                <li>Learn about memory safety and secure programming practices</li>
+                <li>Learn about network attacks and defenses</li>
+                <li>Learn the fundamentals of cryptography and implementation flaws</li>
+                <li>Develop an understanding of the various adversaries (nation-state, underground economy, competitors) and threats to data, privacy, and information control</li>
+                <li>Develop an understanding of the damage caused by real-world attacks</li>
+                <li>Develop an understanding of the human factors in security</li></ul>"
+
+  - heading: Grading Breakdown 
+    content: " <ul><li>Labs: 20%</li>
+                <li>Homeworks: 20%</li>
+                <li>Quizzes: 25% </li>
+                <li>Class Participation: 5% </li>
+                <li>Final: 35%</li></ul>
+     Graded Instrument Policies:
+     <ul> 
+     <li> A total of seven announced quizzes will be held during the semester (as per the schedule below). Out of these the best five will count towards the final grade (N-2 policy). </li>
+     <li> A total of seven labs will be held during the semester. Out of these the best five will count towards your grade (N-2 policy). However, it is highly encouraged that you attempt all labs in order to solidify your understanding of the course materials.</li>
+     <li>A total of three homeworks will be given during the semester. All homeworks will count towards your final grade. </li>
+     <li> Labs must be submitted by midnight on the day of lab and you must appear in a viva to your primary TA in your pre-assigned slot the same week. All TAs will be present during the lab timings to help the students. </li>
+     </ul>"
+
+  - heading: Required Readings
+    content: "There is no specific textbook for this course. Following are recommended readings: 
+    <ul> 
+    <li>Introduction to Computer Security by Goodrich and Tamassia </li>
+    <li>Security Engineering by Ross Anderson</li>
+    <li> Cryptography and Network Security; Principles and Practice by William Stallings</li>
+    </ul>"
+
+  - heading: Harrasment Policy
+    content: "SBASSE, LUMS and particularly this class, is a harassment free zone. There is absolutely zero tolerance for any behavior that is intended or has the expected result of making anyone uncomfortable and negatively impacts the class environment, or any individual’s ability to work to the best of their potential. In case a differently-abled student requires accommodations for fully participating in the course, students are advised to contact the instructor so that they can be facilitated accordingly.<br>
+    If you think that you may be a victim of harassment, or if you have observed any harassment occurring in the purview of this class, please reach out and speak to me. If you are a victim, I strongly encourage you to reach out to the Office of Accessibility and Inclusion at <u>oai@lums.edu.pk</u> or the sexual harassment inquiry committee at <u>harassment@lums.edu.pk.</u> for any queries, clarifications, or advice. You may choose to file an informal or a formal complaint to put an end of offending behavior. You can find more details regarding the LUMS sexual harassment policy here. To file a complaint, please write to <u>harassment@lums.edu.pk.</u>. <br>
+    In addition to LUMS resources, SSE’s Council on Belonging and Equity (CBE) is committed to devising ways to provide a safe, inclusive and respectful learning environment for students, faculty and staff. I serve as a member of CBE. To seek counsel related to any issues, please feel free to approach any member of the council or email at <u>cbe.sse@lums.edu.pk</u>."

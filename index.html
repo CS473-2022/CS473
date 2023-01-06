@@ -1,0 +1,62 @@
+---
+layout: home
+---
+<body>
+    <div class='content' style="text-align: justify;">
+        <em>CS 473/CS 5714/EE 483 Spring 2023</em>
+        <h1 id="Course Description"> Description</h1>
+        {% for para in site.data.home.course.content %}
+
+            {{para.p}}    
+
+        {% endfor %}
+        <br><hr><br>
+        <h1 class="standard-title" id="Instructors">Instructors</h1>
+        <br>
+        <ul class=lists>
+            <li>
+                <div class="person col-md-12 col-sm-24 col-xs-24" id="profs">
+                {% for item in site.data.home.instructors.instructor %}
+                <div>
+                    <div class="person-thumbnail" style="margin-left:1vw">
+                        <div class="person-avatar">
+                            <span class="person-image" style="background: url({{item.img}}); "></span>
+                        </div>
+                    </div>
+                    <div class="person-text">
+                        <h2 class="person-name">{{item.name}} </a></h2>
+                    <p><span>{{item.email}}</span></p>
+                    <p>Office Hours: {{item.consultation}} </p>
+                    </div>
+                </div>
+                <hr style="margin: 3vh 15vw 5vh 0vw; border-style:dashed ;"> 
+                {% endfor %}
+                </div>
+            </li>
+        </ul>
+        <h1 class="standard-title" id="Instructors">Teaching Assistants</h1>
+        <br>
+        <ul class=lists>
+            <li>
+                <div class="person col-md-12 col-sm-24 col-xs-24" id="profs">
+                {% for item in site.data.home.instructors.ta %}
+                <div>
+                    <div class="person-thumbnail" style="margin-left:1vw">
+                        <div class="person-avatar">
+                            <span class="person-image" style="background: url({{item.img}}); "></span>
+                        </div>
+                    </div>
+                    <div class="person-text">
+                        <h2 class="person-name">{{item.name}} </a></h2>
+                    <p><span>{{item.email}}</span></p>
+                    <p>Office Hours: {{item.consultation}} </p>
+                    </div>
+                </div>
+                <hr style="margin: 3vh 15vw 5vh 0vw; border-style:dashed ;"> 
+                {% endfor %}
+                </div>
+            </li>
+        </ul>
+        
+    </div>
+</body>
