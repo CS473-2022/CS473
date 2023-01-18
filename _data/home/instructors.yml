@@ -10,22 +10,24 @@ ta:
   img: assets/instructor.svg
   consultation: 'Office Hours'
 
-- name: X
-  email: X
+- name: Syeda Rja Batool
+  email: 22100059@lums.edu.pk
   img: assets/instructor.svg
   consultation: 'Office Hours'
 
-- name: X
-  email: X
+- name: Zoha Khan
+  email: 23100021@lums.edu.pk
   img: assets/instructor.svg
   consultation: 'Office Hours'
 
-- name: X
-  email: X
-  img: assets/instructor.svg
-  consultation: 'Office Hours'
 
-- name: X
-  email: X
-  img: assets/instructor.svg
-  consultation: 'Office Hours'
+
+# - name: X
+#   email: X
+#   img: assets/instructor.svg
+#   consultation: 'Office Hours'
+
+# - name: X
+#   email: X
+#   img: assets/instructor.svg
+#   consultation: 'Office Hours'
